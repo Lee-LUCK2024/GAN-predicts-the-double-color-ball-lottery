@@ -5,6 +5,8 @@ The results are for reference!!!
 Source of Double Color Ball Lottery Data: https://data.17500.cn/ssq_asc.txt
 
 File Structure:
+'''
+.
 GAN-predicts-the-double-color-ball-lottery/
 │
 ├── Data-preprocessing/
