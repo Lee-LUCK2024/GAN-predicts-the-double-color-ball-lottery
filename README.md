@@ -26,6 +26,7 @@ GAN-predicts-the-double-color-ball-lottery/
 │   ├── predict.py
 │   ├── train.py
 │   └── utils.py
+```
 
 How to use:
 1. if you just want to see the prediction results, pelase run predict.py
