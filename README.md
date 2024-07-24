@@ -1,5 +1,9 @@
 # GAN-predicts-the-double-color-ball-lottery
 
+It is a toy example, just for fun
+
+The results are for reference!!!
+The results are for reference!!!
 The results are for reference!!!
 
 Source of Double Color Ball Lottery Data: https://data.17500.cn/ssq_asc.txt
